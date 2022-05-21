@@ -23,7 +23,7 @@ estructurado para que Cucumber lo entienda
 Java: es un lenguaje de programación y una plataforma informática comercializada por primera vez en 1995 por Sun Microsystems.   
 Hay muchas aplicaciones y sitios web que no funcionarán a menos que tenga Java instalado y cada día se crean más.
 
-Maven: Maven simplifica y estandariza el proceso de construcción del proyecto. Maneja la colaboración en equipo,   
+Maven: simplifica y estandariza el proceso de construcción del proyecto. Maneja la colaboración en equipo,   
 la compilación, la distribución, la documentación y las tareas independientes sin problemas.
 
 IDE: Intellij Community
