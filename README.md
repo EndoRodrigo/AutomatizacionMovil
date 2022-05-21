@@ -13,7 +13,18 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 _Que cosas necesitas para instalar el software y como instalarlas_
 
 ```
-Cucumber: Cucumber es una herramienta que admite el desarrollo impulsado por el comportamiento (BDD) . Si es nuevo en el desarrollo impulsado por el comportamiento, Cucumber lee las especificaciones ejecutables escritas en texto sin formato y valida que el software haga lo que dicen esas especificacioneso.
+Cucumber: Cucumber es una herramienta que admite el desarrollo impulsado por el comportamiento (BDD).  
+Si es nuevo en el desarrollo impulsado por el comportamiento, Cucumber lee las especificaciones ejecutables   
+escritas en texto sin formato y valida que el software haga lo que dicen esas especificacioneso.
+
+Gherkin:es un conjunto de reglas gramaticales que hace que el texto sin formato esté lo suficientemente 
+estructurado para que Cucumber lo entienda
+
+Java: es un lenguaje de programación y una plataforma informática comercializada por primera vez en 1995 por Sun Microsystems.   
+Hay muchas aplicaciones y sitios web que no funcionarán a menos que tenga Java instalado y cada día se crean más.
+
+Maven: Maven simplifica y estandariza el proceso de construcción del proyecto. Maneja la colaboración en equipo,   
+la compilación, la distribución, la documentación y las tareas independientes sin problemas.
 
 IDE: Intellij Community
 Administrador Dependencia: Maven
